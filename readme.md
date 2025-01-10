@@ -4,7 +4,7 @@
 ## Description:
 This project aims to help you navigate your chosen career path by deriving valuable career insights from the 2024 LinkedIn job market. Through the derivation and visualization of industry growth across the US, the most popular skills and skill sets in each industry, and the proportional growth of each industry, this project helps users discover trends that help them plan for success. Over 1 million job postings are analyzed to provide personal insights into the broad trends concerning each of the 18 largest industries identified using iteratively refined keyword mapping.
 
-## Questions This Too Will Help Answer:
+## Questions This Tool Will Help Answer:
 **Based On My Industry...**
 - In what regions and cities are jobs growing the most?
 - What are the most frequently sought-after skills for the jobs that I want?
